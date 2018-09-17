@@ -4,5 +4,6 @@ aws cliを利用した便利なコマンド集
 ## はじめにやること
 ```$ ln -s ~/.zshrc-aws .zshrc-aws```
 
-~/.zshrc
+### ~/.zshrc
+
 ```source .zshrc-aws```
